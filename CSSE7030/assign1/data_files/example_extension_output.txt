@@ -1,0 +1,40 @@
+Welcome to the simple encryption tool!
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Please enter some text to encrypt: Please enter a shift offset (1-25): The encrypted text is:
+  01: bmm xf dbo ep jt tnjmf cbdl
+  02: cnn yg ecp fq ku uokng dcem
+  03: doo zh fdq gr lv vploh edfn
+  04: epp ai ger hs mw wqmpi fego
+  05: fqq bj hfs it nx xrnqj gfhp
+  06: grr ck igt ju oy ysork hgiq
+  07: hss dl jhu kv pz ztpsl ihjr
+  08: itt em kiv lw qa auqtm jiks
+  09: juu fn ljw mx rb bvrun kjlt
+  10: kvv go mkx ny sc cwsvo lkmu
+  11: lww hp nly oz td dxtwp mlnv
+  12: mxx iq omz pa ue eyuxq nmow
+  13: nyy jr pna qb vf fzvyr onpx
+  14: ozz ks qob rc wg gawzs poqy
+  15: paa lt rpc sd xh hbxat qprz
+  16: qbb mu sqd te yi icybu rqsa
+  17: rcc nv tre uf zj jdzcv srtb
+  18: sdd ow usf vg ak keadw tsuc
+  19: tee px vtg wh bl lfbex utvd
+  20: uff qy wuh xi cm mgcfy vuwe
+  21: vgg rz xvi yj dn nhdgz wvxf
+  22: whh sa ywj zk eo oieha xwyg
+  23: xii tb zxk al fp pjfib yxzh
+  24: yjj uc ayl bm gq qkgjc zyai
+  25: zkk vd bzm cn hr rlhkd azbj
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Bye!

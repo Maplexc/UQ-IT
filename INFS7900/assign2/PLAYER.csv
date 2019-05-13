@@ -1,0 +1,59 @@
+player.id,position,homeclubname
+1,Goalkeeper,A.C. Milan
+2,Defender,A.C. Milan
+3,Defender,A.C. Milan
+4,Midfielder,A.C. Milan
+5,Midfielder,A.C. Milan
+6,Forward,A.C. Milan
+7,Forward,A.C. Milan
+8,Forward,A.C. Milan
+9,Goalkeeper,Inter Milan
+10,Defender,Inter Milan
+11,Defender,Inter Milan
+12,Midfielder,Inter Milan
+13,Midfielder,Inter Milan
+14,Forward,Inter Milan
+15,Forward,Inter Milan
+16,Defender,Inter Milan
+17,Goalkeeper,Juventus
+18,Defender,Juventus
+19,Defender,Juventus
+20,Midfielder,Juventus
+21,Midfielder,Juventus
+22,Forward,Juventus
+23,Forward,Juventus
+24,Forward,Forward
+25,Goalkeeper,FC Barcelona
+26,Defender,FC Barcelona
+27,Defender,FC Barcelona
+28,Midfielder,FC Barcelona
+29,Midfielder,FC Barcelona
+30,Forward,FC Barcelona
+31,Forward,FC Barcelona
+32,Goalkeeper,FC Barcelona
+33,Goalkeeper,Real Madrid
+34,Defender,Real Madrid
+35,Defender,Real Madrid
+36,Midfielder,Real Madrid
+37,Midfielder,Real Madrid
+38,Forward,Real Madrid
+39,Forward,Real Madrid
+40,Goalkeeper,English
+41,Defender,English
+42,Midfielder,English
+43,Forward,English
+44,Goalkeeper,Liverpool
+45,Goalkeeper,Liverpool
+46,Defender,Liverpool
+47,Defender,Liverpool
+48,Midfielder,Liverpool
+49,Midfielder,Liverpool
+50,Forward,Liverpool
+51,Forward,Liverpool
+52,Goalkeeper,Manchester United
+53,Defender,Manchester United
+54,Defender,Manchester United
+55,Midfielder,Manchester United
+56,Midfielder,Manchester United
+57,Forward,Manchester United
+58,Forward,Manchester United

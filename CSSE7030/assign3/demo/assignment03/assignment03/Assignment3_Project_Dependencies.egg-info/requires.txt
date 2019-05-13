@@ -1,0 +1,8 @@
+tornado
+pandas
+numpy
+matplotlib
+scipy
+sqlalchemy
+statsmodels
+requests

@@ -1,0 +1,2 @@
+print: immediatly to display something BUT didn't sign any value to variable
+return: assign a value to a variable

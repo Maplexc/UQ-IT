@@ -1,0 +1,16 @@
+Welcome to the simple encryption tool!
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Please enter some encrypted text: Encryption offset: 15
+Decrypted message: I remember him looking round the cover and whistling to himself as he did so, and then breaking out in that old sea-song that he sang so often afterwards: "Fifteen men on the dead man's chest; Yo-ho-ho, and a bottle of rum!"
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Bye!

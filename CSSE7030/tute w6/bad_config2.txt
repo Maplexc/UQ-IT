@@ -1,0 +1,7 @@
+name=This name doesn't have a heading
+[user]
+email=e.idle@pythons.com
+mobile=0412345678
+[notifications]
+email=yes
+sms=no

@@ -1,0 +1,6 @@
+Python is fun,
+it lets me play with files.
+I like playing with files,
+I can do some really fun stuff.
+
+I like Python!

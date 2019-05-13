@@ -1,0 +1,65 @@
+Welcome to the simple encryption tool!
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Please enter some text to encrypt: Please enter a shift offset (1-25): The encrypted text is: fvb dpss hsdhfz yltltily aopz hz aol khf
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Please enter some text to decrypt: Please enter a shift offset (1-25): The decrypted text is: jbmo pqstu zfnach drxy i glekwv
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Please enter some text to decrypt: Please enter a shift offset (1-25): The decrypted text is: i just saw the ad and thought it looked fun
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Invalid command
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Please enter some encrypted text: Encryption offset: 1
+Decrypted message: do you see those two weevils doctor
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Invalid command
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Please enter some encrypted text: Multiple encryption offsets: 4, 12, 21, 25
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Please enter some encrypted text: No valid encryption offset
+
+Please choose an option [e/d/a/q]:
+  e) Encrypt some text
+  d) Decrypt some text
+  a) Automatically decrypt English text
+  q) Quit
+> Bye!
