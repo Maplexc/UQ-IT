@@ -1,7 +1,0 @@
-[user]
-name=Eric Idle
-this line is bad
-mobile=0412345678
-[notifications]
-email=yes
-sms=no

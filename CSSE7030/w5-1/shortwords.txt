@@ -1,7 +1,0 @@
-edit
-food
-ores
-tide
-land
-sore
-diet
